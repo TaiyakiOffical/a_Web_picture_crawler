@@ -13,7 +13,7 @@ import (
 )
 
 const (
-	html  = `https://www.duitang.com/category/?cat=avatar`
+	html  = `https://www.duitang.com/category/?cat=avatar` //这里写你要爬取的网站
 	reImg = `https?://[^"]+?(\.((jpg)|(png)|(jpeg)|(gif)|(bmp)))`
 )
 
