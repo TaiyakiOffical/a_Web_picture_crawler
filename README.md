@@ -1,0 +1,2 @@
+# a_Web_picture_crawler
+一个用go语言实现的很简单的并发爬虫程序
